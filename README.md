@@ -1,10 +1,17 @@
 # 1v1-Me-Elo
 
-## Description
+#### Description
 --
-## Installation
+#### Installation
 --
-## Future Enhancements
+#### Current Status
+
+Current Features:
+- [x] Nothing
+- [ ] Everything
+
 --
-## Resources
+#### Future Enhancements
+--
+#### Resources
 [MEAN.io](mean.io)
