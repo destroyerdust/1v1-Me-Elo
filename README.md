@@ -21,4 +21,4 @@ Current Features:
 #### Future Enhancements
 --
 #### Resources
-[MEAN.io](http://mean.io/#!/)
+[MEAN.js](http://meanjs.org/)
