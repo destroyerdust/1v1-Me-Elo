@@ -21,4 +21,4 @@ Current Features:
 #### Future Enhancements
 --
 #### Resources
-[MEAN.io](mean.io)
+[MEAN.io](http://mean.io/#!/)
