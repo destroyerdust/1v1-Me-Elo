@@ -16,9 +16,12 @@ Ever had a day where you tried to argue with someone on who had the better day?
 Current Features:
 - [x] Nothing
 - [ ] Everything
+- User Account:
+  - [ ] User Login
+  - [ ] User Logout
+  - [ ] User Profile
+  - [ ] User Friends
 
---
-#### Future Enhancements
 --
 #### Resources
 [MEAN.js](http://meanjs.org/)
